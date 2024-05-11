@@ -81,7 +81,6 @@ def build_plain_payload_for_param(pay_par):
   )
   plain_payload_list = sorted(set(plain_payload_list),key=plain_payload_list.index)
 
-obfuscated_payload_list = plain_payload_list
 def obfuscate_payloads():
   global obfuscated_payload_list
   for plain_payload in plain_payload_list:
@@ -107,6 +106,7 @@ def HTMLescape(payload):
   return html.escape(payload)
 
 build_plain_payloads()
+obfuscated_payload_list = plain_payload_list.copy()
 obfuscate_payloads()
 for payload in obfuscated_payload_list:
   print(payload)
