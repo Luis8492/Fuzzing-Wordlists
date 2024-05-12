@@ -51,7 +51,7 @@ def check_XSS_probability(rp):
   XSS_status = "To Be Assessed."
   if rp.is_in_tag:
     if rp.is_in_quote:
-      can_escapte_quote = (rp.quote_type in rp.available_letters)
+      can_escape_quote = (rp.quote_type in rp.available_letters)
       if can_escape_quote:
         XSS_status = "XSS likely."
       else:
@@ -64,6 +64,7 @@ def check_XSS_probability(rp):
     else:
       XSS_status = "XSS likely."
   print(XSS_status)
+  return XSS_status
 
 def craft_payload_string(letters_to_check):
   payload = "xxxx"
@@ -84,18 +85,31 @@ def craft_payload_string(letters_to_check):
 letters_to_check = ["<","\"","'","&","\\"] # global
 payload = craft_payload_string(letters_to_check) # global
 
-target = "https://0ad6000d037689a281e3200c008a0076.web-security-academy.net/?search="
+target_list = [
+  "https://0a3a00b8047e2c4e801b0ddb00ed0026.web-security-academy.net/?search=",
+  "https://0a3a00b8047e2c4e801b0ddb00ed0026.web-security-academy.net/post?postId="
+]
+XSS_entry_points = []
+for target in target_list:
+  # Initial Scan
+  print("=======================")
+  print(target)
+  request_text = target+urllib.parse.quote(payload)
+  response = requests.get(request_text)
+  response_text = response.text
+  reflected_points = list(re.finditer(payload[:6], response_text)) 
+  # Without converting it to list, the iterater will be "consumed" once it has been accessed.
+  if len(reflected_points)==0:
+    print("No reflected value.")
+  else:
+    for match in reflected_points:
+      position = match.start()
+      rp = reflection_point(response_text, position)
+      print("Reflected payload found:",rp.nested_tag)
+      print("In Tag:",str(rp.is_in_tag))
+      print("In quote:{} ({})".format(rp.is_in_quote,rp.quote_type))
+      print("Available Letters : ", ' '.join(rp.available_letters),"  (Escaped Letters : ",' '.join(rp.escaped_letters),")")
+      XSS_status = check_XSS_probability(rp)
+      print()
+      print()
 
-# Initial Scan
-response = requests.get(target+urllib.parse.quote(payload))
-response_text = response.text
-for match in re.finditer(payload[:6], response_text):
-  position = match.start()
-  rp = reflection_point(response_text, position)
-  print("Reflected payload found:",rp.nested_tag)
-  print("In Tag:",str(rp.is_in_tag))
-  print("In quote:{} ({})".format(rp.is_in_quote,rp.quote_type))
-  print("Available Letters : ", ' '.join(rp.available_letters),"  (Escaped Letters : ",' '.join(rp.escaped_letters),")")
-  check_XSS_probability(rp)
-  print()
-  print()
