@@ -3,7 +3,7 @@ import urllib.parse
 import re
 import string
 
-target = "https://0a2500f003c6c22e80e9039f00850063.web-security-academy.net/?search="
+target = "https://xxx.web-security-academy.net/?search="
 
 def craft_payload_string(letters_to_check):
   payload = "xxxx"
