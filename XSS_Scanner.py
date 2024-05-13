@@ -1,9 +1,9 @@
+# ------initial scan----------
 import requests
 import urllib.parse
 import re
 import string
 
-# ------initial scan----------
 class reflection_point:
   def __init__(self,response_text,reflected_position,letters_to_check):
     self.response_text = response_text
@@ -175,10 +175,18 @@ def is_poc_working(payload):
   return XSS_status
 
 #-----main-----
-target_list = [
-  "https://0aad007e03c036638154529e00b7006f.web-security-academy.net/?search=",
-  "https://0aad007e03c036638154529e00b7006f.web-security-academy.net/post?postId="
-]
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument('-t','--target',help='Path to a file containing targets.',dest='target')
+args = parser.parse_args()
+
+f = open(args.target,'r')
+target_list = f.readlines()
+for index in range(len(target_list)):
+  target_list[index] = target_list[index].rstrip('\n')
+f.close()
+
 letters_to_check = ["<","\"","'","&","\\"]
 payload = craft_payload_string(letters_to_check) # global
 XSS_entry_points = []
