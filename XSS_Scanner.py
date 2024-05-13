@@ -221,4 +221,3 @@ for target in target_list:
   print()
 print("===Scan result===")
 print(XSS_entry_points)
-
